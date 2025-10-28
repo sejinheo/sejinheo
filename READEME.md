@@ -1,1 +1,1 @@
-# 안녕하세요, 배움을 멈추지 않는 백엔드 개발자 허세진입니다!
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&width=1000&text=Hello,%20%20I'm%20SeJin&fontAlign=50&fontAlignY=40&color=0:4e73df,100:1a237e&fontColor=ffffff)
