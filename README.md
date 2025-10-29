@@ -31,7 +31,13 @@
 
 <br>
 
-![SeJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejinheo&show_icons=true&theme=radical)
+## 🖥️ My Record
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejinheo&layout=compact&theme=radical" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sejinheo&show_icons=true&theme=radical" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e73df,100:1a237e&height=120&section=footer"/>
 
