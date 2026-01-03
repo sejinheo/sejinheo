@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&width=1000&text=Hello,%20%20I'm%20SeJin&fontAlign=50&fontAlignY=40&color=0:4e73df,100:1a237e&fontColor=ffffff)
 ## 안녕하세요. 배움을 멈추지 않는 백엔드 개발자 허세진입니다.
 
+[포트폴리오 링크입니다.](https://www.notion.so/22708b8b68b980d29e94df512710da0d)
+
 ## 🛠️ My Stack
 <br>
 <p align="left">
